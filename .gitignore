@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 
 .idea
-Hogwarts.iml
+.iml
 
 out/
 !**/src/main/**/out/
